@@ -1,0 +1,44 @@
+The Samurai Scrolls
+
+So, you want to be a master in the art of the sword?
+This guide book will teach you what is necessary, in
+the words of the ancient legend, Rai-Sa-Mu.
+
+1. Basic controls
+-Player 1: Arrow keys and P
+-Player 2: WASD and Space
+
+2. Wielding the sword
+-Don't just flail about! A missed attack leaves you open
+for a counterattack.
+
+-Feinting: Double-tap to feint.
+
+3. Movement
+-As you move around the stage, you will never take your
+eyes off your opponent.
+
+-Pay attention to your surroundings. Your opponent may
+be trying to corner you.
+
+-If your opponent strikes, dodge! You will be surprised
+at what close encounters you can dodge. Do not try to
+counterattack if the opponent is close because you will
+be too late.
+
+-Dodge diagonally for best results.
+
+4. Stages
+-Dojo: The 'go-to' arena for most samurai.
+-Fields: A bit more spacious than the Dojo.
+
+Credits:
+http://maxpixel.freegreatpicture.com/https://pixabay.com - wood textures
+https://www.freecreatives.com/textures/tileable-grass-texture.html - field grass texture
+https://pixabay.com/p-2010932/?no_redirect - grass reeds
+
+(All other textures used not final)
+
+https://pixabay.com/en/photos/game%20controller/ - xbox controller image
+
+freesound.org = Sounds
